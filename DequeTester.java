@@ -1,3 +1,8 @@
+ /*Lonely_Island: Piotr Milewski, Daniel Regassa, Edwin Mok
+  APCS2 pd5
+  HW29 -- Stress is the Best
+  2017-04-04*/
+
 public class DequeTester {
 
     //For testing purposes
